@@ -24,7 +24,7 @@ export default function About() {
 			<p className="text-lg animate-reveal-0.7">
 				
 				- This website is built with React and Tailwind CSS, highlighting modern web development. 
-				It's deployed on GitHub for easy access and reliability.
+				It's deployed on Netlify for easy access and reliability.
 			</p>
 			<div className="flex gap-5 text-4xl">
 				{techs.map(({ Icon, color, duration }, index) => {
