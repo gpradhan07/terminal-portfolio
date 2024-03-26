@@ -42,7 +42,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Portfolio
 
-Check out my portfolio [here](https://my-terminal-portfolio.netlify.app/).
+Check out my portfolio [here](my-terminal-protfolio.netlify.app/).
 
 ## Learn More
 
